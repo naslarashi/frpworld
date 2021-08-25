@@ -1,0 +1,33 @@
+=== DongleManager [Infinity] v1.88 [8/8/2021 4:20:53 PM] ===
+Box/Dongle type selected: Infinity-Box/Dongle [CM2]
+Card-Reader: FT SCR2000 0
+HWID: 0000CB877D314082
+Box/Dongle found: Infinity-Box/Dongle [CM2]
+Reading...
+Serial No (S/N): D534CB87
+Firmware version: 0136.02
+=== Started: 8/8/2021 4:20:56 PM ===
+Connecting to server...
+Connection successfully established
+Checking DongleManager version...
+DongleManager is up-to-date
+Checking Dongle Identification...
+Authenticating on server...
+Authentication successfull
+Service stage 1 confirmed
+Securing session...
+Session secured Ok
+Updating...
+Wait 4-5 minutes, DO NOT disconnect Smart-Card
+Update Ok
+Checking Dongle Identification...
+Identification Ok. Finalizing...
+Finalizing Ok
+=== Process finished: 8/8/2021 4:22:03 PM ===
+=== DongleManager [Infinity] v1.88 [8/8/2021 4:22:03 PM] ===
+Box/Dongle type selected: Infinity-Box/Dongle [CM2]
+Card-Reader: FT SCR2000 0
+HWID: 0000CB877D314082
+Box/Dongle found: Infinity-Box/Dongle [CM2]
+Serial No (S/N): D534CB87
+Firmware version: 0136.02
