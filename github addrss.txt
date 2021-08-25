@@ -1,0 +1,28 @@
+<a href="intent://com.android.settings/#Intent;scheme=android-app;end" data-wpel-link="internal">Open 
+<img height="16" src="https://addrom.com/wp-content/uploads/2020/09/setting-app.png" alt="Setting App"> 
+<strong><span class="has-inline-color has-black-color">Setting </span></strong><span class="has-inline-color has-black-color">App</span></a>
+
+
+<a href="intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end" data-wpel-link="internal">Open <img src="
+https://addrom.com/wp-content/uploads/2020/09/google-quick-search-box.png" alt="Google Quick Search Box"></a>
+
+
+https://github.com/addrom/bypass/raw/master/FRP_addROM.apk
+
+
+
+
+https://github.com/naslarashi/frpworld/blob/a318b3f38bfc5ab558878bf9c7c5ea164a07b7f0/QuickShortcutMaker.apk
+
+
+https://naslarashi.github.io/frpworld/Apex_Launcher.apk
+
+
+https://naslarashi.github.io/frpworld/Android_8-9-10_GAM.apk
+https://naslarashi.github.io/frpworld/QuickShortcutMaker.apk
+
+
+https://naslarashi.github.io/frpworld/FRP_addROM.apk
+
+
+https://naslarashi.github.io/frpworld/Smart_Switch_Mobile.apk
